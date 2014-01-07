@@ -32,4 +32,4 @@ Log in with:
 
 Username: `cn=admin,dc=foo,dc=bar`
 
-Passowrd: `admin`
+Password: `admin`
